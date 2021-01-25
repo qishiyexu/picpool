@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T01:59:31.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.7" etag="A6Jj7V2tkF2dFKWMdY0s" type="github"><diagram id="tA_iP0HrIMMU3YBAey9k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-25T02:22:36.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Hw4mbp2fFvC8ZCF8WM3B" version="14.2.7" type="github">
+  <diagram id="tA_iP0HrIMMU3YBAey9k" name="Page-1">
+    <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-1" value="net" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="144" y="300" width="540" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-2" value="base connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-3" value="tls connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-4" value="buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-5" value="channel" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" width="540" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-6" value="clink base channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-7" value="main/display ... channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-8" value="marshaller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-9" value="message queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xg0DpyRKA36V5mLnYA7g-10" value="thread pool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="260" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
